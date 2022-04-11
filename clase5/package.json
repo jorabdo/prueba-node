@@ -1,0 +1,14 @@
+{
+  "name": "clase5",
+  "version": "1.0.0",
+  "description": "clase5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jor",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
